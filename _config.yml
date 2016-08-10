@@ -1,2 +1,3 @@
 name: Abolaji Ayoola
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
